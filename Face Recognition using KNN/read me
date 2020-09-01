@@ -1,0 +1,1 @@
+In this we use open cv to capture the image using webcam and then use the harcass classifier to point out the face . Then we use a k- nearest neighbor algorithm to detect the face.
